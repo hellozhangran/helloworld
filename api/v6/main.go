@@ -1,9 +1,9 @@
 package main
 
 import (
+	"helloworld/api/v6/demo"
 	"log"
 	"net/http"
-	"helloworld/api/v6/demo"
 )
 
 func main() {
