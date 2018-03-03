@@ -58,3 +58,7 @@ func swap(a, b *int) {
 	*a = *b
 	*b = c
 }
+
+func arrays(){
+	
+}
